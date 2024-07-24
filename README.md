@@ -1,2 +1,2 @@
-# elevatecareer
-Project to Elevate Career
+# elevate-career
+Elevate Career
